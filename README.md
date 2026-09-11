@@ -1,6 +1,6 @@
 # Gnam v6 · Food Operating System
 
-Static app designed for GitHub Pages. No backend, no build step.
+Static app designed for GitHub Pages. No backend, no build step..
 
 ## What changed
 - Offline ingredient vocabulary: >2,000 searchable input forms and >1,000 canonical grocery forms.
